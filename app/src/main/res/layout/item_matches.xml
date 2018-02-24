@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_01"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardUseCompatPadding="true"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="2dp">
+
+    <ImageView
+        android:src="@drawable/card_bg"
+        android:scaleType="centerCrop"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:background="#000000"
+        android:alpha="0.4"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/upper"
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:padding="15dp"
+                    android:id="@+id/match_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="center"
+                    android:textColor="#fff"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_weight="1"
+                    android:layout_gravity="center"
+                    android:id="@+id/match_type"
+                    android:layout_width="120dp"
+                    android:layout_height="0dp"
+                    android:gravity="center"
+                    android:textColor="#fff"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:weightSum="2.5">
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card1"
+                    android:shape="ring"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    app:cardElevation="2dp">
+
+                    <TextView
+                        android:gravity="center"
+                        android:textColor="#FFFFFF"
+                        android:id="@+id/team_1"
+                        android:textStyle="bold"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        />
+
+                </android.support.v7.widget.CardView>
+
+                <TextView
+                    android:padding="5dp"
+                    android:id="@+id/match_vs"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight=".5"
+                    android:gravity="center"
+                    android:text="@string/vs"
+                    android:textColor="#FFFFFF"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                    android:textStyle="bold" />
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/card2"
+                    android:shape="ring"
+                    android:layout_weight="1"
+                    android:layout_width="match_parent"
+                    android:layout_height="60dp"
+                    android:layout_gravity="center"
+                    app:cardElevation="2dp">
+
+                    <TextView
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:id="@+id/team_2"
+                        android:textColor="#FFFFFF"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        />
+
+                </android.support.v7.widget.CardView>
+
+                <LinearLayout
+                    android:padding="15dp"
+                    android:gravity="center"
+                    android:orientation="vertical"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <LinearLayout
+                        android:padding="5dp"
+                        android:gravity="center"
+                        android:orientation="horizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                        <ImageView
+                            android:padding="5dp"
+                            android:src="@drawable/ic_schedule"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content" />
+
+                        <TextView
+                            android:gravity="center"
+                            android:id="@+id/match_time"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:textColor="#fff"
+                            android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <TextView
+                        android:padding="5dp"
+                        android:gravity="center"
+                        android:id="@+id/gmt"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:textColor="#fff"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+                        android:textStyle="normal" />
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

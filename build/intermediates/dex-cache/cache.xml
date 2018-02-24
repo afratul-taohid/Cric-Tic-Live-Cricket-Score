@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\41d87fef0fe32a0d4553fe8e76a644fcebf8a192\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d695dc4247690369d66c022c6d18190155c61fcd">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c7433a04cf64d1a5a1f754c8f7fe8d749c1c1507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.gradle\caches\modules-2\files-2.1\org.jetbrains\annotations-java5\15.0\7011b4551a8451906759b05814c58b9eb829ea9b\annotations-java5-15.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\annotations-java5-15.0_0fc08cc54b282a9375de5606976f4492c98de04d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\01bc69aa8ec0bfa0201b663b94fcfe51584ae435\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6d4384aa06b19d6aecdb87102784d5c0d2ea7532">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_56de1444aa6aaba2d9ec40b0b7b45d776da09cd8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\1527274a54f90c2d678f31ec46cc017d0788f9fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6178e31397c24ab1bfc09766832cdcf519621eb7">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a956a8342e6a2f1a0eade983a4b272be391f8c0a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\3ed1e496972579503fec48d5d95447eb35eb4531\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="363fb5cab8e3b60b403373e02b505ee3e47d1c91">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b774bb4dd37d13b8fc361ef9311389102fe63364\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\e2d2dbfe5bde2774256c598d614deb7e2cc2bef1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f70a8005cc2f6d37e4840f34901eeba3a41de5de">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_171e1b1099872cc7e0e103683ca5ad27414425c6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\2dbffc911622fd2e4dfbe826b43d5496d2f45e47\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2d73e4e5195a8b12538517c89e86d0d0b3603be6">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bdc37fffc98ffbdb898351f0e6cb360e1d4d32a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\2b5bd7df72e2a9652cc77231afa0c7b081c26acc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0403a6c955272a546a25ae4c085f5fb728de3a42">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a923d0e02626ae1f0dfd2adfdbf5b423a5b0898\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2a9226b76e8bc797e579bf5f3b4da90f63866bd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\f81c677be5f64b6eb55f55b03bbe8b8cd12476d2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="589f444b075f47c43c78d6d7c46198b34ce4c1b6">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_21c5f263b14439007759ea8f5516370b6beeb626\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\f4a96ab5d7bacc52c7f8b4887fcef94fbe85b24c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e00b71dcf2fbecaf59b0d487d11839522dd7863d">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ca623f7d1683f1ce4091b42694706dc10ccba6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\07c09000dae0c23a8a3a6f28df493f907010f4e6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="54511008bf7d1aabd871d8d3a26781b3f2bd9617">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e74a1d394bdd3dcec5be57cc7601c47929da2c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\1f146776f8dc16a515bc248c25b3a200192edb09\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="21160c044ba984fb2e33b833c89a496becb85cfd">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e544ae2965fceddb96c11da782188dbb6dd1217f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\24b8ef78f7484407b80cd223a15159daa0096eda\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="30935553c8fba8c04254b6af9bd3bf9259f51a9b">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2efd54b500939cf34841c99557c7f8c033af7883\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\1d8120411ff064d606f1ef9916e03ceb84142a0d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="de123ff49c41c304ca4bc7eb5600d294984eaf5f">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cec5f22f670aa96c99166e3954141353c78bb08c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\5d128b4b7a4eeee29a5a359b0b2930669b9bbb4b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="32054268e6c9fdff0c9c5deafafd0bd105120fb6">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5545747deb119ff09fc6a4384869e1555266aee8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="336b4b721fe795c5d13a9fe268d19201115e4e6b">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_dba5e938b6c1827de007bd3bbfb54745b6bebb6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\0d77d0adf8ddb9e4d2ec57521446f6ff84acde6c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c16e0d5f6efb0cdae98b38fe9a48d5236ea136d0">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0086bb0ac4579a97ec24d1a046fb7e4b5264c975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\7484899de33539c4fcada382e9eb13326848de89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0dc1af4997434691ade16df4be64d49d1bd1fef5">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c23e862f18f1890d909f932f16c898357b003fee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\taohi\.android\build-cache\fc556cc8fad368037156a82335f16bb9478510e9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4acacbab67243d9eb026ea759aefd401d070f3e">
+        <dex dex="I:\Android Studio Project\Cric-TicLiveScores\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9861b2a3e8daf769f9d498fd9f2b1897571c8bfd\classes.dex" />
+    </item>
+
+</items>

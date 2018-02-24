@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "406969831135",
+    "firebase_url": "https://nerdcric-ipl.firebaseio.com",
+    "project_id": "nerdcric-ipl",
+    "storage_bucket": "nerdcric-ipl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406969831135:android:42280f6fe1cacaee",
+        "android_client_info": {
+          "package_name": "com.nerdgeeks.nerdcrict20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406969831135-4kg33kholcp7sn6vgs8h3kf2a3p4ca3n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdgeeks.nerdcrict20",
+            "certificate_hash": "3cf00a319c3dd029bbf8cf34d1f221019f6ef2f8"
+          }
+        },
+        {
+          "client_id": "406969831135-q1u1o0t4q2aq982pqg120eb8k9e6jf1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nerdgeeks.nerdcrict20",
+            "certificate_hash": "c09defe1fbf8e77651c80fda787f8a1cc4a278b8"
+          }
+        },
+        {
+          "client_id": "406969831135-n0p00c3phhrlgvidrvn81ef0vcbe9c13.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_xCHYmFvbim6YxRZA5xYg9XcXK5_boM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406969831135-n0p00c3phhrlgvidrvn81ef0vcbe9c13.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

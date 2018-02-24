@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="appbrain-sdk-13.22">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/0db6aafdb3a710a14c0da4daa0452e276e0cdc0f/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/0db6aafdb3a710a14c0da4daa0452e276e0cdc0f/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

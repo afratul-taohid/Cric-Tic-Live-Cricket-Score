@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:itemBackground="#242447"
+    >
+    <item
+        android:id="@+id/afg"
+        android:title="@string/afgan"
+        android:icon="@drawable/afghanistan"
+        app:showAsAction="always|withText"
+        >
+
+    </item>
+
+    <item
+        android:id="@+id/aus"
+        android:title="@string/australia"
+        android:icon="@drawable/australia"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/ban"
+        android:title="@string/bangladesh"
+        android:icon="@drawable/bangladesh"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/eng"
+        android:title="@string/england"
+        android:icon="@drawable/england"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/ind"
+        android:title="@string/india"
+        android:icon="@drawable/india"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/ire"
+        android:title="@string/ireland"
+        android:icon="@drawable/ireland"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/nz"
+        android:title="@string/new_zealand"
+        android:icon="@drawable/new_zealand"
+        app:showAsAction="always|withText"
+        />
+
+    <item
+        android:id="@+id/pak"
+        android:title="@string/pakistan"
+        android:icon="@drawable/pakistan"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/sa"
+        android:title="@string/south_africa"
+        android:icon="@drawable/south_africa"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/sl"
+        android:title="@string/sri_lanka"
+        android:icon="@drawable/sri_lanka"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/wi"
+        android:title="@string/west_indies"
+        android:icon="@drawable/west_indies"
+        app:showAsAction="always|withText"
+        />
+    <item
+        android:id="@+id/zim"
+        android:title="@string/zimbabwe"
+        android:icon="@drawable/zimbabwe"
+        app:showAsAction="always|withText"
+        />
+</menu>
